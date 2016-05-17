@@ -6,6 +6,7 @@ package graphics
 
 import (
 	"errors"
+	"github.com/sillydong/graphics-go/graphics/interp"
 	"image"
 	"image/draw"
 	"math"
